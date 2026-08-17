@@ -20,9 +20,9 @@ A Python CLI application designed to analyze password strength (entropy calculat
 - **Python 3.8+** (Uses standard library modules: `hashlib`, `math`, `re`, `secrets`, `os`, `sys`).
 - A text wordlist such as `rockyou.txt` placed in the project root directory.
 
-### Installation & Execution
+### Execution
 
-1. **Clone the repository**:
+1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/password-auditor.git
+   git clone https://github.com/FogProtocol/password-auditor.git
    cd password-auditor
